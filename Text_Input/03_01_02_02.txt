@@ -1,0 +1,5 @@
+场景描述：
+01加入这个群组有一段时间了。这是一个金融属性的讨论组，大家主要在这里分享和讨论有一些和加密货币交易获利相关的知识和信息。有一位群组成员02对于开立账户，充值，购买加密货币，开启合约交易，等事项的操作步骤上有一些疑惑，01正好遇见过相同的经历，于是来为02讲解操作方法。
+对话要求是，这段对话中01会用到这句话：
+I also encountered this kind of problem at the beginning. Later, I called the customer service of the bank to communicate and asked them to allow me to buy cryptocurrencies. My review was allowed on the second day, and I was able to buy cryptocurrencies.
+There are more than 30,000 currencies on the market. Maybe the exchange you use does not list this currency. It is recommended that you use the same exchange to avoid missing trading signals.

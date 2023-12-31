@@ -1,0 +1,8 @@
+场景描述：
+01是导师的助理。这是一个金融属性的讨论组，大家主要在这里分享和讨论有一些和加密货币交易获利相关的知识和信息。群组里有个成员02对投资机会很感兴趣，又对一些非公开信息感到迷惑，私下找01想了解更多信息，于是01主动分享一些最新的资讯并给出投资的建议。
+对话要求是，这段对话中01会用到这句话：
+I bought BTC because I received valuable internal channel news about the newly issued cryptocurrency, which will be released within 2 days, but this is a newly issued cryptocurrency, requiring first Buying BTC can be exchanged for an equivalent newly issued cryptocurrency.  
+This newly issued cryptocurrency is a valuable investment and should be announced next week. If you are interested, I can share this message when I arrive. 
+I got an internal channel message about the newly issued cryptocurrency, which is a new cryptocurrency that needs to be purchased for bitcoin to exchange for the same value. 
+I hope that you can seize this opportunity to make more money, achieve more things you want to do, and live better. 
+This is now a value investment with great potential, no need to do any advertising, it is in the internal subscription stage, only channel internal information can purchase g newly issued this cryptocurrency.

@@ -1,0 +1,7 @@
+场景描述：
+01是导师的助理。这是一个金融属性的讨论组，大家主要在这里分享和讨论有一些和加密货币交易获利相关的知识和信息。有一位群组成员02对于加密货币的交易安全有一些疑惑，01来安抚他的情绪，并且解释为什么不用担心。
+对话要求是，这段对话中01会用到这句话：
+Because we are a decentralized exchange, we are not regulated by any one country or organization. We're also not tied to any app store.
+你可以从几百美元开始熟悉交易，边学边赚钱。
+先投入一些资金，熟悉一下操作，到时候再取出就好了。
+我认为您应该先尝试交易以熟悉如何交易，无需准备大量资金，只需1k-2k即可交易。

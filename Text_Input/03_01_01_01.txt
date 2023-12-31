@@ -1,0 +1,8 @@
+场景描述：
+01是导师的助理。这是一个金融属性的讨论组，大家主要在这里分享和讨论有一些和加密货币交易获利相关的知识和信息。有一位新朋友02对投资有一些困惑，01两三句解答之后，他们结束了对话
+对话要求是，这段对话中01会用到这句话：
+Okay if you have any questions, feel free to contact me
+Have a peaceful night
+Take care and sleep tight!
+Enjoy the rest of your night  
+Good night my friend Sweet dreams

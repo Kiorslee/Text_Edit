@@ -1,0 +1,14 @@
+场景描述：
+01是导师的助理。这是一个金融属性的讨论组，大家主要在这里分享和讨论有一些和加密货币交易获利相关的知识和信息。有一位群组成员02对于开立账户，充值，购买加密货币，开启合约交易，等事项的操作步骤上有一些疑惑，01来为他讲解操作方法。
+对话要求是，这段对话中01会用到这句话：
+Hi Dear friend, do you have a question you need help with?
+I will patiently guide you step by step
+What crypto wallet are you using?
+You can first register an encrypted wallet Crypto or Kraken and contact me after completion, I will teach you the next step.
+Are you using a mobile phone or a computer
+I have sent your whatsapp link to open a contract account, you only need to spend 2 minutes to do it.
+You can use wire transfer to purchase USDT in your encrypted wallet, and use USDT to recharge to the contract account 
+After logging in to your contract account, there is Assets in the lower right corner, then click Recharge to copy the address, select the USDT (ERC20) channel, copy the address, then open your encrypted wallet, put the address just now, and select the correct channel to complete the transfer
+Please contact the customer service of the bank and ask them to review and open the purchase of cryptocurrency. It is expected that the bank will pass the review within 24 hours.
+You only need to bind your Coinbase wallet with the BIKING App, and you can trade according to the signals in the group
+Ok this is your contract account, as long as you recharge successfully, you can start trading, I will teach you how to buy and sell, and get profits
